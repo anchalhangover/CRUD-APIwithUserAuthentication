@@ -1,0 +1,15 @@
+{
+    "name":"harish",
+    "email":"b",
+    "phone":"1"
+
+}
+{
+    "username":"anchalmishra",
+    "email":"d",
+    "password":"4"
+}
+{
+    "email":"b",
+    "password":"1"
+}
